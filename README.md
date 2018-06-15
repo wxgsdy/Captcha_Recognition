@@ -5,10 +5,12 @@
 A machine-learning way to recognize captcha images automatically.  
 For detaled inormation please refer to my report under reports folder.
 
-
-
-### Prerequisites
+### Prerequisites(libraries)
 * **Captcha** ([instructions](https://pypi.org/project/captcha/))  
+```shell
         $ pip install --user captcha   
+```
+
+
 
 
