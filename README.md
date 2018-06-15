@@ -7,10 +7,8 @@ For detaled inormation please refer to my report under reports folder.
 
 
 
-### Requirements
-=============
-Install package 'Captch' as follow:  
-       $ pip install --user captch
-
+### Prerequisites
+* **Captcha** ([instructions](https://pypi.org/project/captcha/))  
+        $ pip install --user captcha   
 
 
