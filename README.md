@@ -2,7 +2,7 @@
 
 
 ### Description
-A machine-learning way to recognize captcha images automatically.
+A machine-learning way to recognize captcha images automatically.  
 For detaled inormation please refer to my report under reports folder.
 
 
