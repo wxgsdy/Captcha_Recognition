@@ -35,6 +35,9 @@ We have already converted the training and testing set into TFRecord foramt. Als
 * **Training_demo.ipynb:** A training demo on number+lower-character dataset(You have to download tfrecord files as instructed above). 
 * **recognition_demo.ipynb:** A ruuning demo to recognize some captcha images and print out results(You have to download trained models files as instructed above).
 
+### Recognition demo
+Here are some recognition results by this model:  
+![Alt text](https://github.com/wxgsdy/Captcha_Recognition/blob/master/results/results.JPG)
 
 
 
