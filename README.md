@@ -33,11 +33,6 @@ We have already converted the training and testing set into TFRecord foramt. Als
 * **Median_blur.ipynb:** Apply median_blur to generated captcha images from above step(You may have to change file directory according to your need).
 * **Convert_TFRecord.ipynb:** Convert captcha images into TFRecord format.  
 * **Training_demo.ipynb:** A training demo on number+lower-character dataset(You have to download tfrecord files as instructed above). 
-* **Convert_TFRecord.ipynb:** Convert captcha images into TFRecord format.  
-
-
-
-
 * **recognition_demo.ipynb:** A ruuning demo to recognize some captcha images and print out results(You have to download trained models files as instructed above).
 
 
