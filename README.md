@@ -12,7 +12,7 @@ For detaled inormation please refer to my report under reports folder.
 ```
 ### Usage
 * **Preparation:** We have already converted the training and testing set into TFRecord foramt. Also, we saved a trained network for test. Download these files under the instructions below.
-** **dataset:** Download the converted dataset [here](http://cocodataset.org/#download) and put it in the folder  `captcha`, unzip the file with: 
+* ***dataset:*** Download the converted dataset [here](https://drive.google.com/open?id=1lpGNj1n2t2b__wdD6-tUxx2DDx9sxgaa) and put it in the folder  `captcha`, unzip the file with: 
 ```shell
         $ unzip tfrecords.zip   
 ```
